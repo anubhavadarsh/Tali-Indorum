@@ -26,7 +26,7 @@ int findPeakElement(vector<int> &v)
 		}
 		else
 		{
-			low = mid + 1
+			low = mid + 1;
 		}
 	}
 
